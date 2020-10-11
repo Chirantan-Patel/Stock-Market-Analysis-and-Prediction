@@ -7,7 +7,7 @@ The purpose of this project is to comparatively analyze the effectiveness of pre
 
 
 ## Libraries Needed for Project:
-####1. NumPy libraries
-####2.Pandas libraries
-####3.Matplotlib libraries
-####4.Seaborn libraries
+###1. NumPy libraries
+###2.Pandas libraries
+###3.Matplotlib libraries
+###4.Seaborn libraries
