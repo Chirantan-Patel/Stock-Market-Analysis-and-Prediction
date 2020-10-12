@@ -5,7 +5,7 @@ Stock Market Analysis and Prediction is the project on technical analysis, visua
 ## Purpose
 The purpose of this project is to comparatively analyze the effectiveness of prediction algorithms on stock market data and get general insight on this data through visualization to predict future stock behavior and value at risk for each stock. The project encompasses the concept of Data Mining and Statistics. This project makes heavy use of NumPy, Pandas, and Data Visualization Libraries.
 
-## In this analysis, I would like to explore the following questions.
+## Agenda of Analysis and Predication: 
 
 ### 1. What was the change in price of the stock over time?
 
